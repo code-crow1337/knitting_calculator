@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<resources>
+    <style name="SwitchStyle" parent="Theme.Material3.Light" >
+        <item name="colorControlActivated">@color/md_theme_light_tertiary</item>
+        <item name="colorSwitchThumbNormal">@color/md_theme_light_primary</item>
+    </style>
+</resources>
